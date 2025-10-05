@@ -31,10 +31,10 @@ Dependencies are listed in `requirements.txt` for convenience.
 ## 🧩 Repository Structure
 
 * `README.md` → Project overview and summary
-* `spotify_data_description.csv` → Brief description of Raw dataset
-* `spotify_tracks.csv` → Raw dataset analyzed
 * `Spotify.ipynb` → Main analysis notebook
 * `Spotify.pdf` → Summary of insights & visuals
+* `spotify_data_description.csv` → Brief description of Raw dataset
+* `spotify_tracks.csv` → Raw dataset analyzed
 
 ## 🚀 How to Use
 
