@@ -33,6 +33,7 @@ Dependencies are listed in `requirements.txt` for convenience.
 * `README.md` → Project overview and summary
 * `Spotify.ipynb` → Main analysis notebook
 * `Spotify.pdf` → Summary of insights & visuals
+* `Spotify.pptx` → The insights and visual in ppt format
 * `spotify_data_description.csv` → Brief description of Raw dataset
 * `spotify_tracks.csv` → Raw dataset analyzed
 
